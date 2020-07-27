@@ -5,7 +5,7 @@ Uses file size and (re)occurance to store every second occurance of a 4-byte wor
 <UL><LI>gcc</LI></UL>
 
 <B>Compiling:</B><BR>
-<UL<LI>gcc three-byte-comp.c -o comp</LI>
+<UL><LI>gcc three-byte-comp.c -o comp</LI>
 <LI>gcc three-byte-comp.c -DDECOMPRESSOR -o decomp</LI></UL>
 <BR>
 <B>Optional Flags:</B>
@@ -13,6 +13,6 @@ Uses file size and (re)occurance to store every second occurance of a 4-byte wor
 <LI>-Ofast for compiler optimizations</LI>
 <LI>-g for gdb debugging support</LI></UL>
 <BR>
-<BR>Usage:</B>
+<B>Usage:</B><BR>
 <UL><LI>./comp <I>filename</I></LI>
 <LI>./decomp <I>filename</I></LI></UL>
