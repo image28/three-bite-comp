@@ -1,9 +1,9 @@
 # three-bite-comp
 Uses file size and (re)occurance to store every second occurance of a 4-byte word in 3-bytes
-
+<BR><BR>
 <B>Requirements</B>
 <UL><LI>gcc</LI></UL>
-
+<BR>
 <B>Compiling:</B><BR>
 <UL><LI>gcc three-byte-comp.c -o comp</LI>
 <LI>gcc three-byte-comp.c -DDECOMPRESSOR -o decomp</LI></UL>
