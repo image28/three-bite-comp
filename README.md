@@ -14,5 +14,5 @@ Uses file size and (re)occurance to store every second occurance of a 4-byte wor
 <LI>-g for gdb debugging support</LI></UL>
 <BR>
 <B>Usage:</B><BR>
-<UL><LI>./comp <I>filename</I></LI>
-<LI>./decomp <I>filename</I></LI></UL>
+  <UL><LI>./comp <I>filename</I> (<I>number of iterations</I>)</LI>
+<LI>./decomp <I>filename</I> (<I>number of iterations</I>)</LI></UL>
